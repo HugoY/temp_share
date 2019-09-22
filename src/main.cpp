@@ -8,7 +8,7 @@ int main() {
   Road road(150);
 
   // First student must give a name to bike
-  Bike bike("");
+  Bike bike("User1");
 
   // Second student must give a name to bike2
   Bike bike2("");
